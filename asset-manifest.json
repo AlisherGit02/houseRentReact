@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/houserentreact/static/css/main.3268c2de.css",
+    "main.js": "/houserentreact/static/js/main.42deb44d.js",
+    "static/js/787.786397d0.chunk.js": "/houserentreact/static/js/787.786397d0.chunk.js",
+    "static/media/home.jpg": "/houserentreact/static/media/home.895e10f64edf80aa7a5d.jpg",
+    "index.html": "/houserentreact/index.html",
+    "main.3268c2de.css.map": "/houserentreact/static/css/main.3268c2de.css.map",
+    "main.42deb44d.js.map": "/houserentreact/static/js/main.42deb44d.js.map",
+    "787.786397d0.chunk.js.map": "/houserentreact/static/js/787.786397d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3268c2de.css",
+    "static/js/main.42deb44d.js"
+  ]
+}
