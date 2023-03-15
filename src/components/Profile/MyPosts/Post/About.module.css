@@ -1,0 +1,44 @@
+section {
+  padding: 4.5rem 0rem 3rem;
+}
+.container {
+  max-width: 1068px;
+  margin-left: 202px;
+  margin-right: auto;
+}
+
+.btn {
+  padding: 8px 22px;
+  background: #2288ff;
+  color: #fff;
+  border-radius: 5rem;
+}
+.btn:hover {
+  background: #3492fd;
+}
+
+.about {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(18rem, auto));
+  gap: 2rem;
+}
+
+.about_img img {
+  border-radius: 3rem 0 3rem 0;
+}
+
+.about_text span {
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #2288ff;
+}
+
+.about_text h2 {
+  font-size: 1.7rem;
+}
+
+.about_text p {
+  font-size: 0.938rem;
+  margin: 1rem 0 1rem;
+}

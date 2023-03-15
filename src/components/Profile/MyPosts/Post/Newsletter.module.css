@@ -1,0 +1,52 @@
+section {
+  padding: 4.5rem 0rem 3rem;
+}
+.container {
+  max-width: 1068px;
+  margin-left: 202px;
+  margin-right: auto;
+}
+
+.btn {
+  padding: 8px 22px;
+  background: #2288ff;
+  color: #fff;
+  border-radius: 5rem;
+}
+.btn:hover {
+  background: #3492fd;
+}
+
+.newsletter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 2rem;
+  justify-content: center;
+  text-align: center;
+}
+
+.newsletter h2 {
+  font-size: 1.7rem;
+}
+
+.newsletter form {
+  background: #fff;
+  box-shadow: 2px 2px 18px rgb(14 52 54 / 15%);
+  padding: 6px 10px;
+  border-radius: 5rem;
+}
+.newsletter form input {
+  border: none;
+  outline: none;
+  font-size: 1rem;
+}
+.newsletter .email-box {
+  width: 280px;
+}
+
+.newsletter .btn {
+  padding: 12px 34px;
+  font-weight: 500;
+  text-transform: uppercase;
+}

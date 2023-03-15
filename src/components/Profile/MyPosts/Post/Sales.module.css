@@ -1,0 +1,42 @@
+section {
+  padding: 4.5rem 0rem 3rem;
+}
+.container {
+  max-width: 1068px;
+  margin-left: 202px;
+  margin-right: auto;
+}
+
+.sales {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, auto));
+  gap: 2.4rem;
+}
+.sales .box {
+  padding: 20px;
+  background: #fff;
+  box-shadow: 2px 2px 18px rgb(14 52 54 / 15%);
+  text-align: center;
+  border-radius: 2rem;
+}
+.sales .box:hover {
+  background: #2288ff;
+  color: #fff;
+  transition: 0.4s all linear;
+}
+
+.sales .box .bx {
+  border-radius: 50%;
+  background-color: #f6f6f6;
+  color: #2288ff;
+  font-size: 30px;
+}
+
+.sales .box h3 {
+  font-size: 1.1rem;
+  margin: 1rem 0 0.4rem;
+}
+
+.sales .box p {
+  font-size: 0.938rem;
+}
